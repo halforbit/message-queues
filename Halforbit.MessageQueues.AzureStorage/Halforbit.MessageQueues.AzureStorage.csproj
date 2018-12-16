@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Halforbit.MessageQueues.AzureStorage</PackageId>
+    <Authors>Halforbit.MessageQueues.AzureStorage</Authors>
+    <Product>Halforbit.MessageQueues.AzureStorage</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Halforbit.Facets" Version="1.0.36" />
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="WindowsAzure.Storage" Version="8.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Halforbit.MessageQueues\Halforbit.MessageQueues.csproj" />
+  </ItemGroup>
+
+</Project>
