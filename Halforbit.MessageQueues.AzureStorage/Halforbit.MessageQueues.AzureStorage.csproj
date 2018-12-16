@@ -6,6 +6,7 @@
     <PackageId>Halforbit.MessageQueues.AzureStorage</PackageId>
     <Authors>Halforbit.MessageQueues.AzureStorage</Authors>
     <Product>Halforbit.MessageQueues.AzureStorage</Product>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

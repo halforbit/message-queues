@@ -5,6 +5,7 @@
     <PackageProjectUrl>http://github.com/halforbit/message-queues</PackageProjectUrl>
     <RepositoryUrl>http://github.com/halforbit/message-queues</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
